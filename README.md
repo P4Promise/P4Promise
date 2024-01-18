@@ -1,10 +1,24 @@
-- 👋 Hi, I’m Promise Awobode
-- 👀 I’m interested in developing as a developer! I am highly interested in analytics and data. I believe in telling stories and making an impact through analysis. I currently work with the SQL language.
-- 🌱 I’m currently developing my knowledge in R & Python.
-- 💞️ I’m looking to collaborate on projects and coding activities to boost my knowledge and share my discoveries.
-- 📫 How to reach me - Promisenwoye@gmail.com
+👋 Hello World! 
 
-<!---
-P4Promise/P4Promise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Promise, a passionate Business and Data Analyst who loves problem-solving. My journey in the tech world involves SQL, Python, and Tableau. I thrive on solving complex problems and contributing to innovative projects.
+
+💼 Professional Background
+- 🔭 Currently working on my master's degree in management analytics at Queens University while working full time helping to migrate data to Snowflake with the goal of collating siloed data from different parts of my organization.
+- 🌱 Always learning and exploring new technologies
+
+🚀 Key Skills
+- Languages: SQL, Python
+- Tools: Microsoft Office, Google, Salesforce, Tableau, Pendo
+
+🌐 Connect with Me
+- 📧 Email: promisenwoye@gmail.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/promise-n-04a680129/
+
+
+#### 📚 Featured Repositories
+- [Repo 1 Name](Link to Repo 1)
+- [Repo 2 Name](Link to Repo 2)
+- [Repo 3 Name](Link to Repo 3)
+
+#### 🤝 Let's Collaborate!
+I'm always open to interesting projects and collaborations. Feel free to reach out if you have any questions, or ideas, or want to connect. Happy coding! 👩‍💻🚀

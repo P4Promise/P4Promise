@@ -1,24 +1,20 @@
 👋 Hello World! 
 
-I'm Promise, a passionate Business and Data Analyst who loves problem-solving. My journey in the tech world involves SQL, Python, and Tableau. I thrive on solving complex problems and contributing to innovative projects.
+I'm Promise, a passionate Data Analyst who loves solving problems. I have led and contributed to innovative projects, most of which are in the small to medium project size range.
 
 💼 Professional Background
-- 🔭 Currently working on my master's degree in management analytics at Queens University while working full time helping to migrate data to Snowflake with the goal of collating siloed data from different parts of my organization.
-- 🌱 Always learning and exploring new technologies
+- Over 5 years of experience analyzing sales and customer usage data to derive insights and support strategic decision-making.🔭 Currently working on my master's degree in management analytics at Queens University while working full time as a Revenue Analyst, fighting Churn.
+- 🌱 Always learning and exploring new technologies and concepts.
 
-🚀 Key Skills
+🚀 Skills
 - Languages: SQL, Python
-- Tools: Microsoft Office, Google, Salesforce, Tableau, Pendo
+- Tools: Microsoft Office, Google Sheets/Doc, Salesforce, Tableau, Pendo, Snowflake
+- Soft Skills: Communication, Collaboration, Organization.
 
 🌐 Connect with Me
-- 📧 Email: promisenwoye@gmail.com
+- 📧 Email: promiseawobode@gmail.com
 - 🌐 LinkedIn: https://www.linkedin.com/in/promise-n-04a680129/
 
-
-#### 📚 Featured Repositories
-- [Repo 1 Name](Link to Repo 1)
-- [Repo 2 Name](Link to Repo 2)
-- [Repo 3 Name](Link to Repo 3)
 
 #### 🤝 Let's Collaborate!
 I'm always open to interesting projects and collaborations. Feel free to reach out if you have any questions, or ideas, or want to connect. Happy coding! 👩‍💻🚀
